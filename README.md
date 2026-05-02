@@ -53,9 +53,20 @@
 
 ### 🏢 Organizations
 
-<!--
-Add your organizations here. Example format:
+**[8oft](https://github.com/8oft)** — Minecraft duping / glitching utilities.
 
-**[Organization Name](https://github.com/org-name)** — Brief description of what this organization does.
+**[FOSSParty](https://github.com/FOSSParty)** — Lightweight open source softwares for developers.
 
--->
+**[MiniDuel](https://github.com/MiniDuel)** — Master Duel private server for oldschool gameplay.
+
+**[MiyuCodes](https://github.com/MiyuCodes)** — IT-related educative things.
+
+**[OneLimit](https://github.com/OneLimit)** — Minecraft server.
+
+**[PlayChez](https://github.com/PlayChez)** — Irregular chess variants (3D chess, roguelike chess, Vietnamese chess, triangle chess, ...).
+
+**[PlaywareTeam](https://github.com/PlaywareTeam)** — Free game platform for indie developers (replacement for Steam and itch.io).
+
+**[RinaWork](https://github.com/RinaWork)** — My company.
+
+**[ThuongmaiCraft](https://github.com/ThuongmaiCraft)** — Minecraft server for students at Dai Hoc Thuong Mai.
