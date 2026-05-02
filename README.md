@@ -40,11 +40,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yur1nn&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yur1nn&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" height="165" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yur1nn&theme=midnight-purple&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=667eea" height="165" />
 
 </div>
