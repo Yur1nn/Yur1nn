@@ -51,22 +51,50 @@
 
 ---
 
-### 🏢 Organizations
+### 🏢 My Organizations
 
-**[8oft](https://github.com/8oft)** — Minecraft duping / glitching utilities.
+<table>
+<tr>
+<th width="33%">⛏️ Minecraft</th>
+<th width="33%">🎮 Gaming</th>
+<th width="33%">💻 Dev & Edu</th>
+</tr>
+<tr>
+<td valign="top">
 
-**[FOSSParty](https://github.com/FOSSParty)** — Lightweight open source softwares for developers.
+**[8oft](https://github.com/8oft)**  
+*Exploits & duping tools*
 
-**[MiniDuel](https://github.com/MiniDuel)** — Master Duel private server for oldschool gameplay.
+**[OneLimit](https://github.com/OneLimit)**  
+*Private server infrastructure*
 
-**[MiyuCodes](https://github.com/MiyuCodes)** — IT-related educative things.
+**[ThuongmaiCraft](https://github.com/ThuongmaiCraft)**  
+*University student server*
 
-**[OneLimit](https://github.com/OneLimit)** — Minecraft server.
+</td>
+<td valign="top">
 
-**[PlayChez](https://github.com/PlayChez)** — Irregular chess variants (3D chess, roguelike chess, Vietnamese chess, triangle chess, ...).
+**[MiniDuel](https://github.com/MiniDuel)**  
+*Nostalgic duel simulator*
 
-**[PlaywareTeam](https://github.com/PlaywareTeam)** — Free game platform for indie developers (replacement for Steam and itch.io).
+**[PlayChez](https://github.com/PlayChez)**  
+*Chaotic chess variants*
 
-**[RinaWork](https://github.com/RinaWork)** — My company.
+**[PlaywareTeam](https://github.com/PlaywareTeam)**  
+*Indie dev publishing platform*
 
-**[ThuongmaiCraft](https://github.com/ThuongmaiCraft)** — Minecraft server for students at Dai Hoc Thuong Mai.
+</td>
+<td valign="top">
+
+**[RinaWork](https://github.com/RinaWork)**  
+*Personal company*
+
+**[FOSSParty](https://github.com/FOSSParty)**  
+*Lightweight dev utilities*
+
+**[MiyuCodes](https://github.com/MiyuCodes)**  
+*Tech education content*
+
+</td>
+</tr>
+</table>
