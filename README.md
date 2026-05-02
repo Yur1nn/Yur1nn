@@ -66,34 +66,34 @@
 *Exploits & duping tools*
 
 **[OneLimit](https://github.com/OneLimit)**  
-*Private server infrastructure*
+*Plugins and tools for Minecraft servers*
 
 **[ThuongmaiCraft](https://github.com/ThuongmaiCraft)**  
-*University student server*
+*Survival server for students of Dai hoc Thuong mai*
 
 </td>
 <td valign="top">
 
 **[MiniDuel](https://github.com/MiniDuel)**  
-*Nostalgic duel simulator*
+*Master Duel old-school private server*
 
 **[PlayChez](https://github.com/PlayChez)**  
-*Chaotic chess variants*
+*Chess but irregular variants*
 
 **[PlaywareTeam](https://github.com/PlaywareTeam)**  
-*Indie dev publishing platform*
+*Best game publisher for indie developers*
 
 </td>
 <td valign="top">
 
 **[RinaWork](https://github.com/RinaWork)**  
-*Personal company*
+*Just my personal company*
 
 **[FOSSParty](https://github.com/FOSSParty)**  
-*Lightweight dev utilities*
+*Open-source tools for developers*
 
 **[MiyuCodes](https://github.com/MiyuCodes)**  
-*Tech education content*
+*Tech education platform*
 
 </td>
 </tr>
